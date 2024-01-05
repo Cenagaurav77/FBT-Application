@@ -36,7 +36,7 @@ Before you get started with the Financial Budget Tracking System, ensure that yo
 4. MySQL Database: Download and install MySQL from the official website. Set up a MySQL database to store application data.
 
 ### Installation
-1. Clone the repository: https://github.com/CSYE6200-Object-Oriented-DesignFall2023/final-project-final-group-6
+1. Clone the repository.
 2. Navigate to the backend directory in Eclipse and run the Driver class.
 3. Open the MySQL 80 CLI: Fetch the password from the application.properties and enter it correctly. It will provide access to show databases in the application.
 4. Navigate to the Services settings of the Local system and make sure that the MySQL80 service is running.
